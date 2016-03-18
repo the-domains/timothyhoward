@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[timothyhoward]]></title>
         <description><![CDATA[timothyhoward]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/timothyhoward/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 21:38:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 21:48:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/timothyhoward/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A New Site]]></title>
-            <description><![CDATA[<article><h1>A New Site</h1><p>Here's some text in a brand new post. This is just a test on the new site powered by thegrid.io</p></article>]]></description>
-            <link>undefineda-new-site/index.html</link>
+            <description><![CDATA[<article><h1>A New Site</h1><p>Here's some text in a brand new post. This is just a test on the new site powered by thegrid. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47341a52-3eb9-4e90-beb3-2be605d5cb6b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/timothyhoward/a-new-site/index.html</link>
             <guid isPermaLink="false">5f77bbad-d0da-402f-bf86-ac0faf624325</guid>
-            <pubDate>Fri, 18 Mar 2016 21:38:50 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 21:47:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
