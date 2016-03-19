@@ -1,7 +1,7 @@
-name: timothyhoward
+name: Timothy Howard
 favicon: null
-layout_spectrum: 0.08234337903559208
-typography_spectrum: 0.40137
+layout_spectrum: 0.3941
+typography_spectrum: 0.3848
 title: Timothy Howard
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.383529104758054
-  lightness: 0.9687276906333864
-  saturation: 0.11777345975860953
-  rhythmicContrast: 0.6115544375497848
+    - '#fefefe'
+    - '#1d140f'
+    - '#6d8283'
+    - '#a0bac9'
+    - '#cc3440'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
